@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "golang-developer-roadmap",
+          "description": "Roadmap to becoming a Go developer in 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-13T08:08:20Z",
+            "owner": "darius-khll",
+            "repo": "golang-developer-roadmap",
+            "stars": 18429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "data-engineer-roadmap",
+          "description": "Roadmap to becoming a data engineer in 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-25T21:09:00Z",
+            "owner": "datastacktv",
+            "repo": "data-engineer-roadmap",
+            "stars": 12754
+          }
+        }
+      ],
+      "title": "RoadMaps"
+    },
+    {
+      "description": "笔者所有文章遵循知识共享 署名 - 非商业性使用 - 禁止演绎 4.0 国际许可协议，欢迎转载，尊重版权。您还可以前往 NGTE Books 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：\n",
+      "items": [],
+      "title": "Copyright & More | 延伸阅读"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:55:13.059Z",
+    "original_repository": "wx-chevalier/Awesome-RoadMaps-and-Interviews",
+    "original_repository_sha": "a834c327fdb5025217c7ac6303b06fa653157792",
+    "enhanced_repository": "enhansome/enhansome-Awesome-RoadMaps-and-Interviews",
+    "enhanced_repository_description": null,
+    "title": "Awesome Interviews with stars"
+  }
+}
