@@ -15,7 +15,7 @@
 
 ## Acknowledgements
 
-* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,508 | 🐛 15 | 📅 2024-03-04
+* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,507 | 🐛 15 | 📅 2024-03-04
 
 ## Copyright & More | 延伸阅读
 
@@ -35,7 +35,7 @@
 * 如何克服遗忘带来的无效学习？
 * 如何不再碎片化地学习？
 
-究其根本，也就是需要拓展自己的**知识广度**，精进自己的**知识深度**，锤炼自己的**编程能力**。所谓知识广度，即是为实际问题选择合适的解决方案的能力，广义来说也是眼界与格局的表现。它并不拘泥于某个技术方向或者行业领域，而需要对传统/流行的各类语言、工具、框架、库、服务等有一定的认识；能够明晰各个方案的优劣，并在较高的层次（High Level）描述相关原理。知识广度的拓展与保持需要建立在庞大的阅读量与知识沉淀能力上。在[能力模型](https://github.com/wx-chevalier/Awesome-RoadMaps/blob/master/%E6%8A%80%E6%9C%AF%E4%B9%8B%E5%A4%96/%E8%83%BD%E5%8A%9B%E6%A8%A1%E5%9E%8B.md) ⭐ 97 | 🐛 0 | 🌐 C++ | 📅 2026-07-21一节中，我们从业务、团队、技术这三个维度，对技术人员的五个层次进行了梳理：
+究其根本，也就是需要拓展自己的**知识广度**，精进自己的**知识深度**，锤炼自己的**编程能力**。所谓知识广度，即是为实际问题选择合适的解决方案的能力，广义来说也是眼界与格局的表现。它并不拘泥于某个技术方向或者行业领域，而需要对传统/流行的各类语言、工具、框架、库、服务等有一定的认识；能够明晰各个方案的优劣，并在较高的层次（High Level）描述相关原理。知识广度的拓展与保持需要建立在庞大的阅读量与知识沉淀能力上。在[能力模型](https://github.com/wx-chevalier/Awesome-RoadMaps/blob/master/%E6%8A%80%E6%9C%AF%E4%B9%8B%E5%A4%96/%E8%83%BD%E5%8A%9B%E6%A8%A1%E5%9E%8B.md) ⭐ 98 | 🐛 0 | 🌐 C++ | 📅 2026-07-21一节中，我们从业务、团队、技术这三个维度，对技术人员的五个层次进行了梳理：
 
 ![路线图](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230418222247.png)
 
@@ -63,7 +63,7 @@
 
 ## RoadMaps
 
-* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,430 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
+* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,429 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
 
 * [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,753 | 🐛 30 | 📅 2022-01-25: Roadmap to becoming a data engineer in 2021
 
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
