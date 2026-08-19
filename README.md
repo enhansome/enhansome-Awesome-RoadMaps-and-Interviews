@@ -63,7 +63,7 @@
 
 ## RoadMaps
 
-* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,423 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
+* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,422 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
 
 * [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,752 | 🐛 30 | 📅 2022-01-25: Roadmap to becoming a data engineer in 2021
 
