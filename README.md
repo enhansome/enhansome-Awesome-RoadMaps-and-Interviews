@@ -15,7 +15,7 @@
 
 ## Acknowledgements
 
-* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,513 | 🐛 15 | 📅 2024-03-04
+* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,515 | 🐛 15 | 📅 2024-03-04
 
 ## Copyright & More | 延伸阅读
 
@@ -39,7 +39,7 @@
 
 ![路线图](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230418222247.png)
 
-[Awesome Lists](https://github.com/wx-chevalier/Awesome-Lists) ⭐ 672 | 🐛 7 | 🌐 Python | 📅 2026-05-13 就为我们准备了精而全的技术开发学习与实践资料索引，去芜存菁，去重留一；譬如其中的 [Awesome WebSites](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Specials/Awesome-WebSites.md) ⭐ 672 | 🐛 7 | 🌐 Python | 📅 2026-05-13 一文就为我们推荐了值得阅读的资讯、博客等站点列表。知识广度的拓展也并非一蹴而就之事，需得循序渐进，从初窥门径，到登堂入室，最后融会贯通，当我们感觉乱花渐欲迷人眼，太多的碎片化知识反而使自己迷失方向之际，就可以前往 [Awesome CS Books Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books) ⭐ 2,179 | 🐛 0 | 🌐 HTML | 📅 2026-05-13，去深入地阅读学习各个领域的精选书籍、课程等系统化的内容。
+[Awesome Lists](https://github.com/wx-chevalier/Awesome-Lists) ⭐ 673 | 🐛 7 | 🌐 Python | 📅 2026-05-13 就为我们准备了精而全的技术开发学习与实践资料索引，去芜存菁，去重留一；譬如其中的 [Awesome WebSites](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Specials/Awesome-WebSites.md) ⭐ 673 | 🐛 7 | 🌐 Python | 📅 2026-05-13 一文就为我们推荐了值得阅读的资讯、博客等站点列表。知识广度的拓展也并非一蹴而就之事，需得循序渐进，从初窥门径，到登堂入室，最后融会贯通，当我们感觉乱花渐欲迷人眼，太多的碎片化知识反而使自己迷失方向之际，就可以前往 [Awesome CS Books Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books) ⭐ 2,179 | 🐛 0 | 🌐 HTML | 📅 2026-05-13，去深入地阅读学习各个领域的精选书籍、课程等系统化的内容。
 
 俗话说，好记性不如烂笔头，当我们阅读的多了，自然也要开始记录；而笔者认为记录的开始就要有自己的知识体系。在自己的知识体系下随看随记、定期整理。唯有建立符合自己认知方式的知识图谱，才能有效地沉淀知识，明晰知识边界并进行不断地探索。上车伊始，笔者即致力于构建自己的 [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) ⭐ 76 | 🐛 0 | 🌐 HTML | 📅 2026-05-13，提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的知识图谱、学习成长路线与面试必备内容，并在数年来不断维护与刷新。
 
@@ -65,7 +65,7 @@
 
 * [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,422 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
 
-* [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,752 | 🐛 30 | 📅 2022-01-25: Roadmap to becoming a data engineer in 2021
+* [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,750 | 🐛 30 | 📅 2022-01-25: Roadmap to becoming a data engineer in 2021
 
 * [Developer Roadmaps](https://roadmap.sh/): Step by step guides and paths to learn different tools or technologies
 
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
