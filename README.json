@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-04T15:39:50Z",
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18514
+                "stars": 18516
               }
             }
           ],
@@ -66,7 +66,7 @@
                 "last_commit": "2023-02-13T08:08:20Z",
                 "owner": "darius-khll",
                 "repo": "golang-developer-roadmap",
-                "stars": 18424
+                "stars": 18425
               }
             },
             {
@@ -81,7 +81,7 @@
                 "last_commit": "2022-01-25T21:09:00Z",
                 "owner": "datastacktv",
                 "repo": "data-engineer-roadmap",
-                "stars": 12750
+                "stars": 12749
               }
             }
           ],
@@ -94,7 +94,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:23:06.714Z",
+    "last_updated": "2026-08-26T08:24:03.842Z",
     "original_repository": "wx-chevalier/Awesome-RoadMaps-and-Interviews",
     "original_repository_id": 202320983,
     "original_repository_sha": "a834c327fdb5025217c7ac6303b06fa653157792",

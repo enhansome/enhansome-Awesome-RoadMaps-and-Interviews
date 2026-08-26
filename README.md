@@ -15,7 +15,7 @@
 
 ## Acknowledgements
 
-* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,514 | 🐛 15 | 📅 2024-03-04
+* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,516 | 🐛 15 | 📅 2024-03-04
 
 ## Copyright & More | 延伸阅读
 
@@ -63,9 +63,9 @@
 
 ## RoadMaps
 
-* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,424 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
+* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,425 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
 
-* [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,750 | 🐛 30 | 📅 2022-01-25: Roadmap to becoming a data engineer in 2021
+* [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,749 | 🐛 30 | 📅 2022-01-25: Roadmap to becoming a data engineer in 2021
 
 * [Developer Roadmaps](https://roadmap.sh/): Step by step guides and paths to learn different tools or technologies
 
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
