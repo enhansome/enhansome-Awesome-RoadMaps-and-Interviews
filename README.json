@@ -94,9 +94,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:24:03.842Z",
-    "original_repository": "wx-chevalier/Awesome-RoadMaps-and-Interviews",
-    "original_repository_id": 202320983,
+    "last_updated": "2026-08-27T11:26:31.210Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 202320983,
+      "language": "HTML",
+      "last_commit": "2026-05-06T12:26:09Z",
+      "owner": "wx-chevalier",
+      "repo": "Awesome-RoadMaps-and-Interviews",
+      "stars": 153
+    },
     "original_repository_sha": "a834c327fdb5025217c7ac6303b06fa653157792",
     "enhanced_repository": "enhansome/enhansome-Awesome-RoadMaps-and-Interviews",
     "enhanced_repository_description": null,
