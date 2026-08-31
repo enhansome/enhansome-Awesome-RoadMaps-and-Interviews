@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18517,
+                "stars": 18518,
                 "topics": [
                   "interview",
                   "interview-questions",
@@ -90,7 +90,7 @@
                 "open_issues": 25,
                 "owner": "darius-khll",
                 "repo": "golang-developer-roadmap",
-                "stars": 18423,
+                "stars": 18424,
                 "topics": [
                   "go",
                   "golang",
@@ -135,7 +135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:17:39.808Z",
+    "last_updated": "2026-08-31T15:28:29.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
