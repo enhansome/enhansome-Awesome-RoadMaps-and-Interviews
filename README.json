@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2024-03-04T15:39:50Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18518,
+                "stars": 18515,
                 "topics": [
                   "interview",
                   "interview-questions",
@@ -135,7 +135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:41:33.154Z",
+    "last_updated": "2026-09-08T12:17:43.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
