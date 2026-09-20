@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18516,
+                "stars": 18514,
                 "topics": [
                   "interview",
                   "interview-questions",
@@ -90,7 +90,7 @@
                 "open_issues": 25,
                 "owner": "darius-khll",
                 "repo": "golang-developer-roadmap",
-                "stars": 18420,
+                "stars": 18422,
                 "topics": [
                   "go",
                   "golang",
@@ -115,7 +115,7 @@
                 "open_issues": 30,
                 "owner": "datastacktv",
                 "repo": "data-engineer-roadmap",
-                "stars": 12755,
+                "stars": 12756,
                 "topics": [
                   "cloud",
                   "data-engineer-roadmap",
@@ -135,7 +135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:03:44.975Z",
+    "last_updated": "2026-09-20T12:37:34.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
