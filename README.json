@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18514,
+                "stars": 18517,
                 "topics": [
                   "interview",
                   "interview-questions",
@@ -135,7 +135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:37:34.926Z",
+    "last_updated": "2026-09-21T14:32:32.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
