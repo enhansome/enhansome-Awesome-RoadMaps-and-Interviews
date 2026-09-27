@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2024-03-04T15:39:50Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
                 "stars": 18518,
@@ -90,7 +90,7 @@
                 "open_issues": 25,
                 "owner": "darius-khll",
                 "repo": "golang-developer-roadmap",
-                "stars": 18417,
+                "stars": 18418,
                 "topics": [
                   "go",
                   "golang",
@@ -115,7 +115,7 @@
                 "open_issues": 30,
                 "owner": "datastacktv",
                 "repo": "data-engineer-roadmap",
-                "stars": 12755,
+                "stars": 12757,
                 "topics": [
                   "cloud",
                   "data-engineer-roadmap",
@@ -135,7 +135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T12:27:59.545Z",
+    "last_updated": "2026-09-27T13:19:20.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
@@ -143,7 +143,7 @@
       "id": 202320983,
       "language": "HTML",
       "license": "NOASSERTION",
-      "last_commit": "2026-05-06T12:26:09Z",
+      "last_commit": "2026-09-27T02:56:10Z",
       "open_issues": 1,
       "owner": "wx-chevalier",
       "repo": "Awesome-RoadMaps-and-Interviews",
@@ -153,7 +153,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "a834c327fdb5025217c7ac6303b06fa653157792",
+    "original_repository_sha": "b13f109bb6a637dc282e53b65972f79f9eaeabb5",
     "enhanced_repository": "enhansome/enhansome-Awesome-RoadMaps-and-Interviews",
     "enhanced_repository_description": null,
     "title": "Awesome Interviews with stars"

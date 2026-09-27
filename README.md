@@ -9,17 +9,17 @@
 
 本篇也希望能够将面试扩展于算法之外，使得面试尽可能贴合日常工作所需。
 
-更多介绍与导览参阅 [INTRODUCTION](./INTRODUCTION.md)。
+更多介绍与导览参阅 [INTRODUCTION](00~Cheval/00~Interviews/Awesome-Interviews/INTRODUCTION.md)。
 
 # About
 
 ## Acknowledgements
 
-* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,518 | 🐛 17 | 📅 2024-03-04
+* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,518 | 🐛 18 | 📅 2024-03-04
 
 ## Copyright & More | 延伸阅读
 
-[![技术视野](https://s3.ax1x.com/2021/02/21/yTSKdH.png)](https://github.com/wx-chevalier/Awesome-MindMaps) ⭐ 76 | 🐛 0 | 🌐 HTML | 📅 2026-05-13
+[![技术视野](https://s3.ax1x.com/2021/02/21/yTSKdH.png)](https://github.com/wx-chevalier/Awesome-MindMaps) ⭐ 76 | 🐛 0 | 🌐 HTML | 📅 2026-09-27
 
 您还可以前往 [NGTE Books](https://ng-tech.icu/books-gallery/) 主页浏览包含知识体系、编程语言、软件工程、模式与架构、Web 与大前端、服务端开发实践与工程架构、分布式基础架构、人工智能与深度学习、产品运营与创业等多类目的书籍列表：
 
@@ -35,15 +35,15 @@
 * 如何克服遗忘带来的无效学习？
 * 如何不再碎片化地学习？
 
-究其根本，也就是需要拓展自己的**知识广度**，精进自己的**知识深度**，锤炼自己的**编程能力**。所谓知识广度，即是为实际问题选择合适的解决方案的能力，广义来说也是眼界与格局的表现。它并不拘泥于某个技术方向或者行业领域，而需要对传统/流行的各类语言、工具、框架、库、服务等有一定的认识；能够明晰各个方案的优劣，并在较高的层次（High Level）描述相关原理。知识广度的拓展与保持需要建立在庞大的阅读量与知识沉淀能力上。在[能力模型](https://github.com/wx-chevalier/Awesome-RoadMaps/blob/master/%E6%8A%80%E6%9C%AF%E4%B9%8B%E5%A4%96/%E8%83%BD%E5%8A%9B%E6%A8%A1%E5%9E%8B.md) ⭐ 98 | 🐛 0 | 🌐 C++ | 📅 2026-07-21一节中，我们从业务、团队、技术这三个维度，对技术人员的五个层次进行了梳理：
+究其根本，也就是需要拓展自己的**知识广度**，精进自己的**知识深度**，锤炼自己的**编程能力**。所谓知识广度，即是为实际问题选择合适的解决方案的能力，广义来说也是眼界与格局的表现。它并不拘泥于某个技术方向或者行业领域，而需要对传统/流行的各类语言、工具、框架、库、服务等有一定的认识；能够明晰各个方案的优劣，并在较高的层次（High Level）描述相关原理。知识广度的拓展与保持需要建立在庞大的阅读量与知识沉淀能力上。在[能力模型](https://github.com/wx-chevalier/Awesome-RoadMaps/blob/master/%E6%8A%80%E6%9C%AF%E4%B9%8B%E5%A4%96/%E8%83%BD%E5%8A%9B%E6%A8%A1%E5%9E%8B.md) ⭐ 98 | 🐛 0 | 🌐 C++ | 📅 2026-09-27一节中，我们从业务、团队、技术这三个维度，对技术人员的五个层次进行了梳理：
 
 ![路线图](https://ngte-superbed.oss-cn-beijing.aliyuncs.com/item/20230418222247.png)
 
-[Awesome Lists](https://github.com/wx-chevalier/Awesome-Lists) ⭐ 674 | 🐛 7 | 🌐 Python | 📅 2026-05-13 就为我们准备了精而全的技术开发学习与实践资料索引，去芜存菁，去重留一；譬如其中的 [Awesome WebSites](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Specials/Awesome-WebSites.md) ⭐ 674 | 🐛 7 | 🌐 Python | 📅 2026-05-13 一文就为我们推荐了值得阅读的资讯、博客等站点列表。知识广度的拓展也并非一蹴而就之事，需得循序渐进，从初窥门径，到登堂入室，最后融会贯通，当我们感觉乱花渐欲迷人眼，太多的碎片化知识反而使自己迷失方向之际，就可以前往 [Awesome CS Books Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books) ⭐ 2,202 | 🐛 0 | 🌐 HTML | 📅 2026-05-13，去深入地阅读学习各个领域的精选书籍、课程等系统化的内容。
+[Awesome Lists](https://github.com/wx-chevalier/Awesome-Lists) ⭐ 674 | 🐛 7 | 🌐 Python | 📅 2026-05-13 就为我们准备了精而全的技术开发学习与实践资料索引，去芜存菁，去重留一；譬如其中的 [Awesome WebSites](https://github.com/wx-chevalier/Awesome-Lists/blob/master/Specials/Awesome-WebSites.md) ⭐ 674 | 🐛 7 | 🌐 Python | 📅 2026-05-13 一文就为我们推荐了值得阅读的资讯、博客等站点列表。知识广度的拓展也并非一蹴而就之事，需得循序渐进，从初窥门径，到登堂入室，最后融会贯通，当我们感觉乱花渐欲迷人眼，太多的碎片化知识反而使自己迷失方向之际，就可以前往 [Awesome CS Books Warehouse](https://github.com/wx-chevalier/Awesome-CS-Books) ⭐ 2,202 | 🐛 0 | 🌐 HTML | 📅 2026-09-27，去深入地阅读学习各个领域的精选书籍、课程等系统化的内容。
 
-俗话说，好记性不如烂笔头，当我们阅读的多了，自然也要开始记录；而笔者认为记录的开始就要有自己的知识体系。在自己的知识体系下随看随记、定期整理。唯有建立符合自己认知方式的知识图谱，才能有效地沉淀知识，明晰知识边界并进行不断地探索。上车伊始，笔者即致力于构建自己的 [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) ⭐ 76 | 🐛 0 | 🌐 HTML | 📅 2026-05-13，提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的知识图谱、学习成长路线与面试必备内容，并在数年来不断维护与刷新。
+俗话说，好记性不如烂笔头，当我们阅读的多了，自然也要开始记录；而笔者认为记录的开始就要有自己的知识体系。在自己的知识体系下随看随记、定期整理。唯有建立符合自己认知方式的知识图谱，才能有效地沉淀知识，明晰知识边界并进行不断地探索。上车伊始，笔者即致力于构建自己的 [Awesome MindMaps](https://github.com/wx-chevalier/Awesome-MindMaps) ⭐ 76 | 🐛 0 | 🌐 HTML | 📅 2026-09-27，提供了软件工程通用、前端、后端、DevOps、测试、架构师、人工智能工程师等多领域的知识图谱、学习成长路线与面试必备内容，并在数年来不断维护与刷新。
 
-笔者目前选择的是以 MarkDown 格式记录，并且将所有的笔记存放于 [Github-文档札记](https://github.com/topics/wx-doc)以 Git 方式进行版本管理；编辑器是直接使用的 VSCode，移动端编辑的话也是用的 GitGo/WorkCopy 这样的 Git 应用。这些笔记即是笔者自身技术视野与认知的外化，也类比于外设之于内存，在需要的时候分页加载到脑海中使用，以应对这知识爆炸的时代。其中的典型代表，[Awesome CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets) ⭐ 589 | 🐛 0 | 🌐 HTML | 📅 2026-05-13，对于日常开发中用到的相关知识的备忘录/清单进行总结, 适合快速掌握或者回顾某个语言/框架/工具的语法或使用要点。[Tech Road, 我的技术之路](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/blob/master/技术之路) ⭐ 3,196 | 🐛 2 | 🌐 HTML | 📅 2026-05-13是对于笔者多年学习与认知变迁的总结。
+笔者目前选择的是以 MarkDown 格式记录，并且将所有的笔记存放于 [Github-文档札记](https://github.com/topics/wx-doc)以 Git 方式进行版本管理；编辑器是直接使用的 VSCode，移动端编辑的话也是用的 GitGo/WorkCopy 这样的 Git 应用。这些笔记即是笔者自身技术视野与认知的外化，也类比于外设之于内存，在需要的时候分页加载到脑海中使用，以应对这知识爆炸的时代。其中的典型代表，[Awesome CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets) ⭐ 589 | 🐛 0 | 🌐 HTML | 📅 2026-09-27，对于日常开发中用到的相关知识的备忘录/清单进行总结, 适合快速掌握或者回顾某个语言/框架/工具的语法或使用要点。[Tech Road, 我的技术之路](https://github.com/wx-chevalier/Developer-Zero-To-Mastery/blob/master/技术之路) ⭐ 3,196 | 🐛 2 | 🌐 HTML | 📅 2026-05-13是对于笔者多年学习与认知变迁的总结。
 
 先贤有云，知行合一，知是行之始，行是知之成，Linus Torvalds 也曾提到：'Talk is cheap. Show me the code.'，在阅读与笔记之后，就是要开始实践编码。所谓编程能力，并不仅仅是编写代码(Write Code)的能力，而是包含了阅读、编写、理解、重构、抽象等多个方面，是所谓的代码管理/掌控。其外在表现之一即是能够随时随地用合适的语言无阻塞地实现某些功能需求，对于常见的语法，接口，算法，设计模式等能够做到心随意动，信手拈来。编程能力是提升研发效能的重要保障，于笔者而言也是毕生应该追求的目标与爱好之一。笔者的编程能力较弱，日常开发，特别是在多语言多框架并用的场景下，往往会需要不断地中断，查找以继续工作，也是令我颇为苦恼。[Coding Snippets](https://github.com/topics/wx-snippets) 系列仓库，即是对笔者在编程语言、前后端编码过程中常用的模板、模式等代码片、工具库的汇聚。
 
@@ -53,7 +53,7 @@
 
 # 编程语言与软件工程
 
-编程语言是一切的基础，正如 Steve McConnell 在 [Code Complete](https://github.com/wx-chevalier/Awesome-CS-Books) ⭐ 2,202 | 🐛 0 | 🌐 HTML | 📅 2026-05-13 一书中提及，我们应该 `Program into a language` 而不是 `Program in a language`，针对不同的需要选择合适的编程语言来实现，而不是受制于自己所会的语言。在[知识图谱](https://github.com/wx-chevalier/Awesome-MindMaps) ⭐ 76 | 🐛 0 | 🌐 HTML | 📅 2026-05-13中也包含了跨编程语言的公共知识杂谈，笔者与编程语言相关的文章存放在 [Programming Language Series | 编程语言语法基础与工程实践](https://github.com/wx-chevalier/ProgrammingLanguage-Notes)仓库中，其涵盖了 **C/C++、Go、Java、JavaScript、Python、Rust、Swift** 等常见的语言，以及通用的[编程语言理论](https://github.com/wx-chevalier/ProgrammingLanguage-Notes/blob/master/编程语言理论)。
+编程语言是一切的基础，正如 Steve McConnell 在 [Code Complete](https://github.com/wx-chevalier/Awesome-CS-Books) ⭐ 2,202 | 🐛 0 | 🌐 HTML | 📅 2026-09-27 一书中提及，我们应该 `Program into a language` 而不是 `Program in a language`，针对不同的需要选择合适的编程语言来实现，而不是受制于自己所会的语言。在[知识图谱](https://github.com/wx-chevalier/Awesome-MindMaps) ⭐ 76 | 🐛 0 | 🌐 HTML | 📅 2026-09-27中也包含了跨编程语言的公共知识杂谈，笔者与编程语言相关的文章存放在 [Programming Language Series | 编程语言语法基础与工程实践](https://github.com/wx-chevalier/ProgrammingLanguage-Notes)仓库中，其涵盖了 **C/C++、Go、Java、JavaScript、Python、Rust、Swift** 等常见的语言，以及通用的[编程语言理论](https://github.com/wx-chevalier/ProgrammingLanguage-Notes/blob/master/编程语言理论)。
 
 编程能力锻炼的基础，首要的就是关于[数据结构与算法](https://github.com/wx-chevalier/SoftwareEngineering-Notes/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)，以及[面向对象的设计模式](https://github.com/wx-chevalier/SoftwareEngineering-Notes/tree/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)，其对应的代码分别存放在了 [coding-snippets](https://github.com/wx-chevalier/coding-snippets) ⭐ 62 | 🐛 6 | 🌐 Rust | 📅 2023-11-06, [algorithm-snippets](https://github.com/wx-chevalier/algorithm-snippets) ⭐ 36 | 🐛 26 | 🌐 C++ | 📅 2023-12-25, [design-pattern-snippets](https://github.com/wx-chevalier/design-pattern-snippets) ⭐ 52 | 🐛 28 | 🌐 PHP | 📅 2023-04-17 中。此外，我们还可以从零编写一些类似于 Guava & Lodash 这样的自己的通用工具库，笔者自身是整合在了 [Guash](https://github.com/wx-chevalier/guash) ⭐ 22 | 🐛 34 | 🌐 JavaScript | 📅 2023-01-04 中。
 
@@ -63,9 +63,9 @@
 
 ## RoadMaps
 
-* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,417 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
+* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,418 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
 
-* [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,755 | 🐛 30 | 📅 2022-01-25: Roadmap to becoming a data engineer in 2021
+* [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,757 | 🐛 30 | 📅 2022-01-25: Roadmap to becoming a data engineer in 2021
 
 * [Developer Roadmaps](https://roadmap.sh/): Step by step guides and paths to learn different tools or technologies
 
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
