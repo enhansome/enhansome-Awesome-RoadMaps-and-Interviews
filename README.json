@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "perkfly",
                 "repo": "reverse-interview-zh",
-                "stars": 18518,
+                "stars": 18520,
                 "topics": [
                   "interview",
                   "interview-questions",
@@ -115,7 +115,7 @@
                 "open_issues": 30,
                 "owner": "datastacktv",
                 "repo": "data-engineer-roadmap",
-                "stars": 12757,
+                "stars": 12760,
                 "topics": [
                   "cloud",
                   "data-engineer-roadmap",
@@ -135,7 +135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:19:20.057Z",
+    "last_updated": "2026-09-28T15:58:57.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
@@ -147,7 +147,7 @@
       "open_issues": 1,
       "owner": "wx-chevalier",
       "repo": "Awesome-RoadMaps-and-Interviews",
-      "stars": 154,
+      "stars": 155,
       "topics": [
         "awesome",
         "awesome-list"
