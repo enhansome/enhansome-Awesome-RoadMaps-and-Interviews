@@ -90,7 +90,7 @@
                 "open_issues": 25,
                 "owner": "darius-khll",
                 "repo": "golang-developer-roadmap",
-                "stars": 18420,
+                "stars": 18421,
                 "topics": [
                   "go",
                   "golang",
@@ -115,7 +115,7 @@
                 "open_issues": 29,
                 "owner": "datastacktv",
                 "repo": "data-engineer-roadmap",
-                "stars": 12756,
+                "stars": 12757,
                 "topics": [
                   "cloud",
                   "data-engineer-roadmap",
@@ -135,7 +135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T15:28:41.162Z",
+    "last_updated": "2026-11-04T15:46:32.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
