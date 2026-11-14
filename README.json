@@ -54,7 +54,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-05-13T09:58:56Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "wx-chevalier",
             "repo": "Awesome-Lists-and-CheatSheets",
             "stars": 676,
@@ -90,7 +90,7 @@
                 "open_issues": 25,
                 "owner": "darius-khll",
                 "repo": "golang-developer-roadmap",
-                "stars": 18433,
+                "stars": 18432,
                 "topics": [
                   "go",
                   "golang",
@@ -115,7 +115,7 @@
                 "open_issues": 29,
                 "owner": "datastacktv",
                 "repo": "data-engineer-roadmap",
-                "stars": 12758,
+                "stars": 12759,
                 "topics": [
                   "cloud",
                   "data-engineer-roadmap",
@@ -135,7 +135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T15:41:36.001Z",
+    "last_updated": "2026-11-14T14:31:34.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
