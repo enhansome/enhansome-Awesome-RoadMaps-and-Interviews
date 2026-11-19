@@ -63,7 +63,7 @@
 
 ## RoadMaps
 
-* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,434 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
+* [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,435 | 🐛 25 | 📅 2023-02-13: Roadmap to becoming a Go developer in 2020
 
 * [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) ⭐ 12,762 | 🐛 29 | 📅 2022-01-25: Roadmap to becoming a data engineer in 2021
 
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

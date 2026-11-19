@@ -90,7 +90,7 @@
                 "open_issues": 25,
                 "owner": "darius-khll",
                 "repo": "golang-developer-roadmap",
-                "stars": 18434,
+                "stars": 18435,
                 "topics": [
                   "go",
                   "golang",
@@ -135,7 +135,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T16:43:14.653Z",
+    "last_updated": "2026-11-19T16:48:11.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Interviews for Coder, Programming Language, Software Engineering, Web, Backend, Distributed Infrastructure, DataScience & AI | 面试必备",
@@ -147,7 +147,7 @@
       "open_issues": 1,
       "owner": "wx-chevalier",
       "repo": "Awesome-RoadMaps-and-Interviews",
-      "stars": 156,
+      "stars": 155,
       "topics": [
         "awesome",
         "awesome-list"
