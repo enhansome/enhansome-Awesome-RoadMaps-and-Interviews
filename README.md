@@ -15,7 +15,7 @@
 
 ## Acknowledgements
 
-* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,538 | 🐛 16 | 📅 2024-03-04
+* [反向面试](https://github.com/yifeikong/reverse-interview-zh) ⭐ 18,540 | 🐛 16 | 📅 2024-03-04
 
 ## Copyright & More | 延伸阅读
 
@@ -79,4 +79,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
